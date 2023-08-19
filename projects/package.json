@@ -1,0 +1,26 @@
+{
+  "name": "website",
+  "version": "1.2.6",
+  "description": "website als übung für Digital Talents",
+  "main": "index.js",
+  "scripts": {
+    "test": " serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdiAnderegg/uebungweb.git"
+  },
+  "keywords": [
+    "npm",
+    "javascript"
+  ],
+  "author": "Edi Anderegg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EdiAnderegg/uebungweb/issues"
+  },
+  "homepage": "https://github.com/EdiAnderegg/uebungweb#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.1"
+  }
+}
