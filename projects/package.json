@@ -1,6 +1,6 @@
 {
   "name": "website",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "description": "website als übung für Digital Talents",
   "main": "index.js",
   "scripts": {
